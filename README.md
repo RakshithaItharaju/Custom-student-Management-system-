@@ -1,9 +1,3 @@
-Perfect ✅
-Here’s your **final GitHub-ready README.md** with your details included in the professional format you wanted:
-
----
-
-```markdown
 # Custom Student Management System (PHP + MySQL)
 
 ## 📌 Introduction
